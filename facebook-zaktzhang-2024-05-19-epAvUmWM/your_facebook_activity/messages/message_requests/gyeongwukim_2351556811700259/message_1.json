@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Gyeongwu Kim"
+    },
+    {
+      "name": "Zak Zhang"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Gyeongwu Kim",
+      "timestamp_ms": 1701578195571,
+      "content": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Gyeongwu Kim",
+  "is_still_participant": true,
+  "thread_path": "message_requests/gyeongwukim_2351556811700259",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

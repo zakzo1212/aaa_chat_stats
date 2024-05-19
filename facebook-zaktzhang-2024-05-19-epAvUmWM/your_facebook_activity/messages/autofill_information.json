@@ -1,0 +1,45 @@
+{
+  "autofill_information_v2": {
+    "CITY": [
+      "Cambridge"
+    ],
+    "STATE": [
+      "MA"
+    ],
+    "COUNTRY": [
+      "US"
+    ],
+    "EMAIL": [
+      "zakzo1212@gmail.com"
+    ],
+    "PHONE": [
+      "+14256159366"
+    ],
+    "GENDER": [
+      "male"
+    ],
+    "SLIDER": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "FIRST_NAME": [
+      "Zak"
+    ],
+    "LAST_NAME": [
+      "Zhang"
+    ],
+    "FULL_NAME": [
+      "Zak Zhang"
+    ],
+    "WORK_EMAIL": [
+      "zakzo1212@gmail.com"
+    ],
+    "WORK_PHONE": [
+      "+14256159366"
+    ]
+  }
+}

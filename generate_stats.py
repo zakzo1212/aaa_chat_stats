@@ -1,7 +1,5 @@
 import json
-
-
-# TODO: add data from message_2.json
+import os
 
 class Parser():
 
@@ -18,6 +16,9 @@ class Parser():
 
         data1['messages'] += (data2['messages'])
         self.data = data1
+
+        if 'stats.txt' in os.listdir():
+            os.remove("stats.txt")
 
         with open("stats.txt", "w") as f:
             f.write("StAAAts for the Spring 2024 AAA ChAAAt \n" + "-"*50 + "\n\n")
@@ -245,6 +246,68 @@ class Parser():
                 f.write("\n")
                 
         return secret_haters
+    
+    def most_reacted_messages(self, n, log=True):
+        """
+        finds the top n most reacted messages and records the message content, the sender, and the number of reactions
+        """
+        reacts_per_message = {}
+        for message in self.data['messages']:
+            if 'reactions' not in message.keys() or 'content' not in message.keys():
+                continue
+            reacts_per_message[message['content']] = len(message['reactions'])
+        
+        reacts_per_message = self._sort_dict(reacts_per_message)
+        if log:
+            with open("stats.txt", "a") as f:
+                f.write("Most reacted messages: \n" + "-"*50 + "\n")
+                for message, reacts in list(reacts_per_message.items())[:n]:
+                    f.write(f"{message}...: {reacts}\n")
+                f.write("\n")
+        
+        return reacts_per_message
+    
+    def best_message_per_person(self, log=True):
+        """
+        returns a dict mapping each person to their most reacted message as well as the number of reactions it received
+        """
+        best_message_per_person = {}
+        for message in self.data['messages']:
+            if 'reactions' not in message.keys() or 'content' not in message.keys():
+                continue
+            if message['sender_name'] not in best_message_per_person.keys():
+                best_message_per_person[message['sender_name']] = (message['content'], len(message['reactions']))
+            elif len(message['reactions']) > best_message_per_person[message['sender_name']][1]:
+                best_message_per_person[message['sender_name']] = (message['content'], len(message['reactions']))
+        
+        if log:
+            with open("stats.txt", "a") as f:
+                f.write("Best message per person: \n" + "-"*50 + "\n")
+                for person, (message, reacts) in best_message_per_person.items():
+                    f.write(f"{person:25}: {message}... ({reacts} reacts)\n")
+                f.write("\n")
+        
+        return best_message_per_person
+    
+    def most_times_atted(self, log=True):
+        """
+        returns a dictionary mapping each person to the number of times they've been @'d
+        """
+        ats_per_person = {}
+        for message in self.data['messages']:
+            if 'content' not in message.keys():
+                continue
+            ats_per_person[message['sender_name']] = ats_per_person.get(message['sender_name'], 0) + message['content'].count('@')
+
+        ats_per_person = self._sort_dict(ats_per_person)
+        if log:
+            with open("stats.txt", "a") as f:
+                f.write("Most @'d people: \n" + "-"*50 + "\n")
+                for person, ats in ats_per_person.items():
+                    f.write(f"{person:25}: {ats}\n")
+                f.write("\n")
+        
+        return ats_per_person
 
 def main():
     parser = Parser()
@@ -253,13 +316,23 @@ def main():
     AAA_keys = ['aaa']
     rizz_keys = ['rizz']
     rat_keys = ['rat', 'ratting', 'rats']
+    snipe_keys = ['snipe', 'sniping', 'sniped', 'snipes']
+    at_keys = ['@']
+    furry_keys = ['furry', 'furries']
+    uwu_keys = ['uwu', 'owo', 'rawr']
+    drinking_keys = ['drinking', 'drinks', 'drunk', 'drank', 'drink', 'alcohol', 'beer', 'wine', 'liquor', 'vodka', 'whiskey', 'alc', 'alcoholic']
 
     total_messages = parser.total_messages()
     messages_per_person = parser.messages_per_person()
     squid_messages = parser.count_message_match(squid_keys)
     AAA_messages = parser.count_message_match(AAA_keys)
     rizz_messages = parser.count_message_match(rizz_keys)
+    snipe_messages = parser.count_message_match(snipe_keys)
+    at_messages = parser.count_message_match(at_keys)
     rat_messages = parser.count_message_match(rat_keys)
+    furry_messages = parser.count_message_match(furry_keys)
+    drinking_messages = parser.count_message_match(drinking_keys)
+    uwu_messages = parser.count_message_match(uwu_keys)
     reacts_received = parser.reacts_received()
     reacts_given = parser.reacts_given()
     likes_to_messages_ratio = parser.likes_to_messages_ratio()
@@ -267,6 +340,10 @@ def main():
 
     secret_admirers = parser.secret_admirers()
     secret_haters = parser.secret_haters()
+
+    most_reacted_messages = parser.most_reacted_messages(10)
+    best_message_per_person = parser.best_message_per_person()
+    most_times_atted = parser.most_times_atted()
 
 if __name__ == "__main__":
     main()

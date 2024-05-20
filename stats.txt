@@ -87,6 +87,48 @@ Ji Won Kim               : 1
 Angie Zhou               : 1
 Justin Lee               : 1
 
+Messages containing ['snipe', 'sniping', 'sniped', 'snipes']: 
+--------------------------------------------------
+Alex Han                 : 7
+Timmy Dang               : 6
+Angie Zhou               : 4
+Swathi Senthil           : 3
+Faith Choe               : 2
+Ji Won Kim               : 2
+Kelly Wu                 : 1
+Gyeongwu Kim             : 1
+Gloria Huang             : 1
+Zak Zhang                : 1
+Yash Prabhu              : 1
+Stephen Shin             : 1
+Sophia Chen              : 1
+
+Messages containing ['@']: 
+--------------------------------------------------
+Timmy Dang               : 69
+Jessie Lee               : 52
+Angie Zhou               : 32
+Patrick Liu              : 32
+Sophia Chen              : 31
+Vivien Huang             : 24
+Zak Zhang                : 23
+Justin Lee               : 17
+Kelly Kim                : 11
+Jessie Jin               : 8
+George Bian              : 7
+Faith Choe               : 7
+Ji Won Kim               : 7
+Alex Han                 : 3
+Kelly Wu                 : 3
+Swathi Senthil           : 3
+Yash Prabhu              : 3
+Audrey Oh                : 2
+Gloria Huang             : 2
+Alicia Ji                : 2
+Max Zhu                  : 2
+Eunice Choi              : 1
+Elliot Chen              : 1
+
 Messages containing ['rat', 'ratting', 'rats']: 
 --------------------------------------------------
 Timmy Dang               : 45
@@ -108,6 +150,46 @@ Gyeongwu Kim             : 1
 Jessie Jin               : 1
 Gloria Huang             : 1
 Elliot Chen              : 1
+
+Messages containing ['furry', 'furries']: 
+--------------------------------------------------
+Timmy Dang               : 4
+Sophia Chen              : 4
+Eunice Choi              : 3
+Patrick Liu              : 2
+Jessie Lee               : 2
+Zak Zhang                : 1
+Yash Prabhu              : 1
+
+Messages containing ['drinking', 'drinks', 'drunk', 'drank', 'drink', 'alcohol', 'beer', 'wine', 'liquor', 'vodka', 'whiskey', 'alc', 'alcoholic']: 
+--------------------------------------------------
+Timmy Dang               : 28
+Jessie Lee               : 24
+Sophia Chen              : 9
+Zak Zhang                : 6
+Patrick Liu              : 4
+Yash Prabhu              : 4
+Justin Lee               : 3
+George Bian              : 3
+Vivien Huang             : 3
+Eunice Choi              : 2
+Elliot Chen              : 2
+Angie Zhou               : 2
+Kelly Kim                : 2
+Alex Han                 : 1
+Faith Choe               : 1
+Swathi Senthil           : 1
+
+Messages containing ['uwu', 'owo', 'rawr']: 
+--------------------------------------------------
+Jessie Lee               : 6
+Sophia Chen              : 2
+Kelly Wu                 : 1
+Timmy Dang               : 1
+Patrick Liu              : 1
+Stephen Shin             : 1
+Vivien Huang             : 1
+Jessie Jin               : 1
 
 Reacts Received: 
 --------------------------------------------------
@@ -237,4 +319,84 @@ Gyeongwu Kim              likes Timmy Dang 0.1% of the time
 Stephen Shin              likes Timmy Dang 0.1% of the time
 Audrey Oh                 likes Sophia Chen 0.07% of the time
 Michael Wong              likes Jessie Lee 0.04% of the time
+
+Most reacted messages: 
+--------------------------------------------------
+YAY to vivien and justin for putting on such an amazing retreat and George for cheffing it up once again âºï¸âºï¸âºï¸ð«¶...: 18
+thank u guys for an amazing retreaaat i love you all so much...: 17
+thank you guys for being so welcoming and so chill this was probably the best retreat iâve ever been to...: 16
+thank you george for the food!!!!...: 15
+tysm for the yeAAArbook i loved reading everyoneâs notes ð·...: 14
+Making unagi Don at pbe on Saturday @ 7 ish before karaoke pregame, like this message if you want to come so ik how much food to get...: 14
+Can ppl like this message for whoâs coming at 7:30?...: 13
+welcome to our sreps @Max Zhu and @Yash Prabhu !!!!!!!!!!!!!!!!!! ððð...: 13
+Dinner at pbe @ 7:30 handrolls ð¤ ...: 12
+Ok then maybe Saturday dinner and then Tuesday postgame w light food?...: 12
+
+Best message per person: 
+--------------------------------------------------
+Timmy Dang               : Like this message if youâre going to tank night... (12 reacts)
+Angie Zhou               : YAY to vivien and justin for putting on such an amazing retreat and George for cheffing it up once again âºï¸âºï¸âºï¸ð«¶... (18 reacts)
+Jessie Jin               : we will miss u guys... (11 reacts)
+Jessie Lee               : tysm for the yeAAArbook i loved reading everyoneâs notes ð·... (14 reacts)
+George Bian              : Making unagi Don at pbe on Saturday @ 7 ish before karaoke pregame, like this message if you want to come so ik how much food to get... (14 reacts)
+Zak Zhang                : rescheduled my trip for karaoke..... (9 reacts)
+Ji Won Kim               : undefeatedðª... (8 reacts)
+Vivien Huang             : thank u guys for an amazing retreaaat i love you all so much... (17 reacts)
+Sophia Chen              : Hyun su was taking pictures of me and eunice and some random girl took the phone from him bc she couldnt stand how bad he was doing... (10 reacts)
+Patrick Liu              : @everyone instead of a regular meeting this Thursday, weâre doing a photo shoot. Make sure youâve completed your actionables from last week. We will be checking in with each team to see how yâall are doing.
+
+where: BCS mezzanine (building 46)
+when: 9pm (normal meeting time)
+what: Photoshoot
+dress code: Semiformal (usually black suits and dresses)... (11 reacts)
+Alex Han                 : wahts the unavoidable conflict jiwon... (12 reacts)
+Faith Choe               : We won vbð¥³... (9 reacts)
+Eunice Choi              : justin... (5 reacts)
+Gloria Huang             : She was zoomingð¨... (6 reacts)
+Kelly Kim                : enoch (ua diversity) transferred a few hundred for gor! âºï¸... (12 reacts)
+Yash Prabhu              : thank you guys for being so welcoming and so chill this was probably the best retreat iâve ever been to... (16 reacts)
+Justin Lee               : If anyone needs my 4.401 cheat sheet just lmk... (9 reacts)
+Kelly Wu                 : Are people feeling okay after last nights food? I threw up 6 times this morning ð... (8 reacts)
+Elliot Chen              : Can we get matching AAA headbands... (11 reacts)
+Swathi Senthil           : growth mentality... (6 reacts)
+Michael Wong             : å¤ªæå¨äºãç±ä½ ä»¬ â¤ï¸ â¤ï¸... (5 reacts)
+Gyeongwu Kim             : Iâm getting spawn camped this is crazy... (8 reacts)
+Stephen Shin             : âHi Ashley! How many friends in ur group?â
+*slowly turns around*
+âUhhâ¦.20 ð¤â... (5 reacts)
+Audrey Oh                : As the person who thought kkim was the scariest in aaa at first â¦ I also donât agree... (4 reacts)
+Alicia Ji                : Why is aaa chat becoming free food mailing list..... (5 reacts)
+Max Zhu                  : Yes but also just in general... (7 reacts)
+Hyun Su Price            : weirdo stalker we in philly rn... (2 reacts)
+
+Most @'d people: 
+--------------------------------------------------
+Timmy Dang               : 89
+Jessie Lee               : 58
+Angie Zhou               : 48
+Sophia Chen              : 46
+Patrick Liu              : 46
+Vivien Huang             : 27
+Zak Zhang                : 26
+Justin Lee               : 21
+Kelly Kim                : 17
+Ji Won Kim               : 12
+Jessie Jin               : 9
+Faith Choe               : 7
+George Bian              : 7
+Kelly Wu                 : 5
+Alex Han                 : 4
+Max Zhu                  : 4
+Yash Prabhu              : 4
+Swathi Senthil           : 3
+Gloria Huang             : 2
+Audrey Oh                : 2
+Eunice Choi              : 2
+Alicia Ji                : 2
+Elliot Chen              : 1
+Gyeongwu Kim             : 0
+Michael Wong             : 0
+Stephen Shin             : 0
+Hyun Su Price            : 0
 

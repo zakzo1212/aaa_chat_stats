@@ -7,6 +7,8 @@ class Parser():
         """
         Loads in and combines all the chat data from the downloaded messages files. 
         """
+        # message_path = "2023_data/your_facebook_activity/messages/inbox/fall_23_freps/message_1.json"
+        # message_path = "2023_data/your_facebook_activity/messages/inbox/fall_23_nofreps/message_1.json"
         message_path_1 = "data/messages/messages/inbox/chat_sp24/message_1.json"
         message_path_2 = "data/messages/messages/inbox/chat_sp24/message_2.json"
 
@@ -17,11 +19,16 @@ class Parser():
         data1['messages'] += (data2['messages'])
         self.data = data1
 
+        # with open(message_path, "r") as f:
+        #     self.data = json.load(f)
+
         if 'stats.txt' in os.listdir():
             os.remove("stats.txt")
 
         with open("stats.txt", "w") as f:
             f.write("StAAAts for the Spring 2024 AAA ChAAAt \n" + "-"*50 + "\n\n")
+            # f.write("StAAAts for the Fall 2023 ChAAAt w/ Freps\n" + "-"*50 + "\n\n")
+            # f.write("StAAAts for the Fall 2023 ChAAAt w/out Freps\n" + "-"*50 + "\n\n")
 
     def _sort_dict(self, d):
         """
@@ -34,11 +41,9 @@ class Parser():
         returns a dictionary mapping each person to the number of messages they've sent
         """
         messages_per_person = {}
-        for participant in self.data['participants']:
-            messages_per_person[participant['name']] = 0
 
         for message in self.data['messages']:
-            messages_per_person[message['sender_name']] += 1
+            messages_per_person[message['sender_name']] = messages_per_person.get(message['sender_name'], 0) + 1
 
         messages_per_person = self._sort_dict(messages_per_person)
         if log:

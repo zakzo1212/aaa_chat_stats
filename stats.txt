@@ -1,0 +1,240 @@
+StAAAts for the Spring 2024 AAA ChAAAt 
+--------------------------------------------------
+
+Total messages: 
+--------------------------------------------------
+Total messages: 11359
+
+Messages per person: 
+--------------------------------------------------
+Jessie Lee               : 2316
+Timmy Dang               : 1984
+Sophia Chen              : 1475
+Angie Zhou               : 795
+Zak Zhang                : 591
+Patrick Liu              : 459
+Justin Lee               : 363
+Eunice Choi              : 361
+Vivien Huang             : 359
+Alex Han                 : 314
+Yash Prabhu              : 307
+Ji Won Kim               : 277
+Jessie Jin               : 271
+Faith Choe               : 247
+Kelly Kim                : 246
+Kelly Wu                 : 179
+Swathi Senthil           : 177
+George Bian              : 176
+Alicia Ji                : 85
+Max Zhu                  : 83
+Gloria Huang             : 74
+Gyeongwu Kim             : 65
+Stephen Shin             : 55
+Elliot Chen              : 54
+Audrey Oh                : 31
+Hyun Su Price            : 9
+Michael Wong             : 6
+
+Messages containing ['squid']: 
+--------------------------------------------------
+Timmy Dang               : 18
+Jessie Lee               : 11
+Sophia Chen              : 7
+Ji Won Kim               : 1
+Eunice Choi              : 1
+Yash Prabhu              : 1
+
+Messages containing ['aaa']: 
+--------------------------------------------------
+Jessie Lee               : 53
+Timmy Dang               : 51
+Sophia Chen              : 46
+Angie Zhou               : 18
+Patrick Liu              : 11
+Zak Zhang                : 11
+Alex Han                 : 9
+Justin Lee               : 9
+Vivien Huang             : 7
+Yash Prabhu              : 6
+Kelly Wu                 : 6
+Ji Won Kim               : 5
+Jessie Jin               : 5
+Swathi Senthil           : 4
+Alicia Ji                : 4
+Audrey Oh                : 3
+Kelly Kim                : 2
+Gyeongwu Kim             : 2
+Eunice Choi              : 2
+Stephen Shin             : 2
+Faith Choe               : 2
+Elliot Chen              : 2
+George Bian              : 1
+Max Zhu                  : 1
+Hyun Su Price            : 1
+Michael Wong             : 1
+
+Messages containing ['rizz']: 
+--------------------------------------------------
+Jessie Lee               : 8
+Timmy Dang               : 5
+Zak Zhang                : 3
+Yash Prabhu              : 3
+Patrick Liu              : 2
+Sophia Chen              : 2
+Eunice Choi              : 2
+Gloria Huang             : 1
+Ji Won Kim               : 1
+Angie Zhou               : 1
+Justin Lee               : 1
+
+Messages containing ['rat', 'ratting', 'rats']: 
+--------------------------------------------------
+Timmy Dang               : 45
+Jessie Lee               : 43
+Sophia Chen              : 29
+Faith Choe               : 6
+Zak Zhang                : 6
+Angie Zhou               : 6
+Eunice Choi              : 5
+Yash Prabhu              : 4
+Justin Lee               : 2
+Swathi Senthil           : 2
+Patrick Liu              : 2
+Kelly Kim                : 2
+Ji Won Kim               : 1
+Alex Han                 : 1
+Kelly Wu                 : 1
+Gyeongwu Kim             : 1
+Jessie Jin               : 1
+Gloria Huang             : 1
+Elliot Chen              : 1
+
+Reacts Received: 
+--------------------------------------------------
+Timmy Dang               : 782
+Jessie Lee               : 702
+Sophia Chen              : 491
+Justin Lee               : 357
+Angie Zhou               : 317
+Zak Zhang                : 305
+Kelly Kim                : 281
+Patrick Liu              : 235
+Vivien Huang             : 198
+Jessie Jin               : 184
+George Bian              : 152
+Alex Han                 : 144
+Faith Choe               : 140
+Yash Prabhu              : 139
+Ji Won Kim               : 119
+Eunice Choi              : 112
+Kelly Wu                 : 101
+Swathi Senthil           : 90
+Gloria Huang             : 80
+Alicia Ji                : 70
+Elliot Chen              : 58
+Gyeongwu Kim             : 57
+Max Zhu                  : 33
+Stephen Shin             : 30
+Audrey Oh                : 25
+Michael Wong             : 12
+Hyun Su Price            : 5
+
+Reacts Given: 
+--------------------------------------------------
+Jessie Lee               : 584
+Sophia Chen              : 469
+Swathi Senthil           : 377
+Zak Zhang                : 349
+George Bian              : 347
+Faith Choe               : 325
+Kelly Wu                 : 299
+Jessie Jin               : 274
+Alex Han                 : 249
+Timmy Dang               : 248
+Alicia Ji                : 228
+Angie Zhou               : 224
+Vivien Huang             : 211
+Justin Lee               : 202
+Ji Won Kim               : 158
+Gloria Huang             : 151
+Kelly Kim                : 110
+Patrick Liu              : 97
+Max Zhu                  : 93
+Eunice Choi              : 93
+Gyeongwu Kim             : 33
+Audrey Oh                : 30
+Elliot Chen              : 27
+Yash Prabhu              : 23
+Stephen Shin             : 17
+Michael Wong             : 1
+
+Likes to messages ratio: 
+--------------------------------------------------
+Michael Wong             : 2.0
+Kelly Kim                : 1.142276
+Gloria Huang             : 1.081081
+Elliot Chen              : 1.074074
+Justin Lee               : 0.983471
+Gyeongwu Kim             : 0.876923
+George Bian              : 0.863636
+Alicia Ji                : 0.823529
+Audrey Oh                : 0.806452
+Jessie Jin               : 0.678967
+Faith Choe               : 0.566802
+Kelly Wu                 : 0.564246
+Hyun Su Price            : 0.555556
+Vivien Huang             : 0.551532
+Stephen Shin             : 0.545455
+Zak Zhang                : 0.516074
+Patrick Liu              : 0.511983
+Swathi Senthil           : 0.508475
+Alex Han                 : 0.458599
+Yash Prabhu              : 0.452769
+Ji Won Kim               : 0.429603
+Angie Zhou               : 0.398742
+Max Zhu                  : 0.39759
+Timmy Dang               : 0.394153
+Sophia Chen              : 0.332881
+Eunice Choi              : 0.310249
+Jessie Lee               : 0.303109
+
+Self-likers: 
+--------------------------------------------------
+Jessie Lee               : 3
+Vivien Huang             : 2
+Timmy Dang               : 2
+Sophia Chen              : 2
+George Bian              : 1
+
+Secret Admirers: 
+--------------------------------------------------
+Kelly Kim                 likes Gloria Huang 24.32% of the time
+Sophia Chen               likes Gloria Huang 20.27% of the time
+Jessie Lee                likes Michael Wong 16.67% of the time
+Timmy Dang                likes Audrey Oh 16.13% of the time
+Zak Zhang                 likes Gloria Huang 14.86% of the time
+Jessie Jin                likes Gloria Huang 14.86% of the time
+Patrick Liu               likes Gloria Huang 13.51% of the time
+Vivien Huang              likes Audrey Oh 12.9% of the time
+Angie Zhou                likes Gloria Huang 12.16% of the time
+Kelly Wu                  likes Gloria Huang 12.16% of the time
+Justin Lee                likes Jessie Jin 10.33% of the time
+
+Secret Haters: 
+--------------------------------------------------
+Ji Won Kim                likes Patrick Liu 0.22% of the time
+Faith Choe                likes Patrick Liu 0.22% of the time
+Kelly Wu                  likes Patrick Liu 0.22% of the time
+Hyun Su Price             likes Patrick Liu 0.22% of the time
+Gloria Huang              likes Timmy Dang 0.15% of the time
+Elliot Chen               likes Timmy Dang 0.15% of the time
+Sophia Chen               likes Sophia Chen 0.14% of the time
+Jessie Lee                likes Jessie Lee 0.13% of the time
+Max Zhu                   likes Angie Zhou 0.13% of the time
+Timmy Dang                likes Timmy Dang 0.1% of the time
+Alicia Ji                 likes Timmy Dang 0.1% of the time
+Gyeongwu Kim              likes Timmy Dang 0.1% of the time
+Stephen Shin              likes Timmy Dang 0.1% of the time
+Audrey Oh                 likes Sophia Chen 0.07% of the time
+Michael Wong              likes Jessie Lee 0.04% of the time
+
